@@ -39,18 +39,17 @@ pip install -r requirements.txt
 3.Run the Streamlit app:
 streamlit run salary.py
 
-📦 Dependencies
-pandas
+###📦 Dependencies
+1.pandas
+2.matplotlib
+3.scikit-learn
+4.streamlit
+5.pyngrok
+6.joblib
 
-1.matplotlib
-2.scikit-learn
-3.streamlit
-4.pyngrok
-5.joblib
-
-📜 License
+###📜 License
 This project is licensed under the MIT License.
 
-👨‍💻 Author
-Developed by Pragya Srivastava
+###👨‍💻 Author
+Developed by Ayush Sahu
 
